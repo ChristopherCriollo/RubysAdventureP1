@@ -106202,10 +106202,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ruby
       objectReference: {fileID: 0}
-    - target: {fileID: 7723810203601504875, guid: f9cc1156dda2d6d4a90f345500719eda, type: 3}
-      propertyPath: m_Layer
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 7723810203601504877, guid: f9cc1156dda2d6d4a90f345500719eda, type: 3}
       propertyPath: m_RootOrder
       value: 35
@@ -106248,10 +106244,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7723810203601504877, guid: f9cc1156dda2d6d4a90f345500719eda, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7723810203680460100, guid: f9cc1156dda2d6d4a90f345500719eda, type: 3}
-      propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
