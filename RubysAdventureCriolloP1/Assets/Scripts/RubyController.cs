@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class RubyController : MonoBehaviour
 {
-       public float speed = 3.0f;
+      public float speed = 3.0f;
     
     public int maxHealth = 5;
     
@@ -57,7 +57,7 @@ public class RubyController : MonoBehaviour
             if (invincibleTimer < 0)
                 isInvincible = false;
         }
-        
+        //if (Input.GetButtonDown("Fire1"))
         if(Input.GetKeyDown(KeyCode.C))
         {
             Launch();
